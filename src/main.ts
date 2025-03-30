@@ -49,3 +49,4 @@ export function ono(ono: Ono): OnoFunction {
 	console.log(colorFunc(`[${ono.name}]`), ...message);
     }
 }
+###
